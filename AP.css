@@ -1,0 +1,42 @@
+body {
+    background: url(RRQ.jpeg) no-repeat;
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    margin: 50px;
+    padding: 0;
+  }
+
+.main {
+  background-color: blue;
+  border: 2px dashed white;
+  border-radius: 20px;
+  opacity: 0.8;
+}
+
+.second {
+  margin: 20px;
+}
+
+.second h2 {
+  text-align: center;
+  border-bottom: 2px dashed white;
+  color: white;
+}
+
+.second label {
+  color: white;
+}
+
+.third {
+  display: block;
+  padding: 10px 0 0 45%;
+}
+
+.third button {
+  width: 100px;
+  height: 25px;
+}
+
+.rrq input,.rrq select, .rrq textarea{
+  width: 100%;
+}
